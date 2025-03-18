@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="emerald">#50C878</color>
+    <color name="jade">#00A86B</color>
+    <color name="taupe">#baa68e</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">BudgetApp</string>
+    <style name="Base.Theme.BudgetApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.BudgetApp" parent="Base.Theme.BudgetApp"/>
+</resources>
